@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaskar_sinha
-- 👀 I’m interested in monetary Economics and Policy tools
-- 🌱 I’m currently learning DSGE
+- 👀 I’m interested in MonetaryEconomics, Health Economics and Development Economics, Empirical Macroeconomics and Policy tools
+- 🌱 I’m currently learning DSGE and BVAR
 - 💞️ I’m looking to collaborate on Macroeconometric research on MP
 - 📫 How to reach me prof.b.sinha@gmail.com
 
